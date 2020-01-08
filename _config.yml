@@ -1,5 +1,5 @@
 title: AUCTF - Ashland University Capture the Flag
 description: The official website for Ashland Universities Capture the Flag event.
 show_downloads: false
-google_analytics:
+google_analytics: UA-155582516-1
 theme: jekyll-theme-cayman
