@@ -10,7 +10,11 @@ To educate middle schoolers and high schoolers on computer science topics includ
 ##### Agenda
 
 8:30 Check in begins
+
 9:00 Welcome and Scoring Explination
+
 9:30 Competition begins
+
 12:00 Competition ends. Review and solutions shared.
+
 12:30 Tour
