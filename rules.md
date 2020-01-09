@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##### Rules
+### Rules
 
 Event organizers decisions are final.
 

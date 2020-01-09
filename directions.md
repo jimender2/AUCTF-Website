@@ -2,11 +2,12 @@
 layout: default
 ---
 
-Address:
+### Address:
 
 Patterson Hall
 835 King Rd.
 Ashland , OH 44805
+
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
