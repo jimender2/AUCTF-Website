@@ -2,4 +2,5 @@
 layout: default
 ---
 
-![AUCTF Poster](poster.jpg){:class="img-responsive"}
+Any questions, comments, or concerns??
+Contact Jonathan by email at jmeredit [@] ashland [dot] edu
