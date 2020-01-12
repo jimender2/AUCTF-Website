@@ -4,7 +4,7 @@ layout: default
 
 ### Purpose:
 
-To educate middle schoolers and high schoolers on computer science topics including basic programming and other cyber security topics including encryption and networking tools through the use of Capture the Flag style teaching methods.
+To educate high school students on computer science topics including basic programming and other cyber security topics including encryption and networking tools through the use of Capture the Flag style teaching methods.
 
 
 ### Agenda:
