@@ -5,7 +5,7 @@ layout: default
 <p id="demo"></p>
 
 <script>
-var countDownDate = new Date("Feb 29, 2021 9:00:00").getTime();
+var countDownDate = new Date("Feb 29, 2020 9:00:00").getTime();
 var x = setInterval(function() {
   var now = new Date().getTime();
   var distance = countDownDate - now;
