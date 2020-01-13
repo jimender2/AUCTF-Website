@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p id="demo"></p>
+<h1 id="demo"></h1>
 
 <script>
 var countDownDate = new Date("Feb 29, 2020 9:00:00").getTime();
