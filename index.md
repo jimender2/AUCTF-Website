@@ -4,6 +4,11 @@ layout: default
 
 <center><h1 id="demo"></h1></center>
 
+
+
+
+![AUCTF Poster](poster.jpg){:class="img-responsive"}
+
 <script>
 var countDownDate = new Date("Feb 29, 2020 9:00:00").getTime();
 var x = setInterval(function() {
