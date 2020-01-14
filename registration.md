@@ -14,7 +14,7 @@ description: Register for the AUCTF event here.
 </div>
 
 <!-- Display the countdown timer in an element -->
-<p id="demo"></p>
+<h1 id="demo"></h1>
 
 <script>
 // Set the date we're counting down to
