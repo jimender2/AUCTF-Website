@@ -17,4 +17,14 @@ To educate high school students on computer science topics including basic progr
 
 12:00 Competition ends. Review and solutions shared.
 
-12:30 Tour
+12:30 Tour and Lunch.
+
+
+
+### What will students need to know?
+
+How to think critically. Some knowledge of a programming language may be helpful but is in no way required.
+
+
+
+[back](./)
