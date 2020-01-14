@@ -6,7 +6,7 @@ layout: default
 
 Patterson Hall
 835 King Rd.
-Ashland , OH 44805
+Ashland, OH 44805
 
 
 <style>
@@ -19,5 +19,3 @@ Ashland , OH 44805
 </div>
 
 [back](./)
-
-
