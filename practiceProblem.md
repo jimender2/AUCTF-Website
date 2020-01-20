@@ -2,11 +2,15 @@
 layout: default
 ---
 
-This page has example Capture the Flag examples.  There will be more added the closer we get to the competition.
+This page has example Capture the Flag examples.  There will be more added every week leading to the competition.
 
-The goal of each problem is to find a "flag" that solves each problem.  A flag is made up of a string of text that contain random words.  The flags in this competition will always appear in the following format:
+
+The goal of each problem in a Capture the Flag event is to find a "flag" that solves each problem.  A flag consists of a string of text that contains random words.  The flags in this competition will always appear in the following format:
 
 AUCTF{some_random_words}
+
+
+Solutions will be released when new problems are added.
 
 
 Forensics
